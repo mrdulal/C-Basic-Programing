@@ -1,0 +1,15 @@
+D:\Education\Praticeweek3\Praticeweek3\bin\Debug\net6.0\Praticeweek3.exe
+D:\Education\Praticeweek3\Praticeweek3\bin\Debug\net6.0\Praticeweek3.deps.json
+D:\Education\Praticeweek3\Praticeweek3\bin\Debug\net6.0\Praticeweek3.runtimeconfig.json
+D:\Education\Praticeweek3\Praticeweek3\bin\Debug\net6.0\Praticeweek3.dll
+D:\Education\Praticeweek3\Praticeweek3\bin\Debug\net6.0\Praticeweek3.pdb
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.csproj.AssemblyReference.cache
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.AssemblyInfoInputs.cache
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.AssemblyInfo.cs
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.csproj.CoreCompileInputs.cache
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.dll
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\refint\Praticeweek3.dll
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.pdb
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\Praticeweek3.genruntimeconfig.cache
+D:\Education\Praticeweek3\Praticeweek3\obj\Debug\net6.0\ref\Praticeweek3.dll
